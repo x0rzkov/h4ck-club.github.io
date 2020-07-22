@@ -199,7 +199,7 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
     
 ###### sites 
 | name                                                             | tech | notes |
-| :___                                                             | :___ | :___  |
+|:-----------------------------------------------------------------|:-----|:------|
 | [hACME Game](http://www.hacmegame.org)                           | site | -     |
 | [XSS Game](https://xss-game.appspot.com)                         | site | -     |
 | [Embedded Security CTF](https://microcorruption.com )            | site | -     |
@@ -235,7 +235,7 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
 
 ###### vendor 
 | name                                                 | tech | notes |
-| :___                                                 | :___ | :___  |
+|:-----------------------------------------------------|:-----|:------|
 | [Acunetix acuart](http://testphp.vulnweb.com)        | -    | -     |
 | [Mavituna testsparker](http://aspnet.testsparker.co) | -    | -     |
 | [HP freebank](http://zero.webappsecurity.com)        | -    | -     |
@@ -247,7 +247,7 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
 
 ###### mobile 
 | name                                                                             | tools | notes |
-| :___                                                                             | :___  | :___  |
+|:---------------------------------------------------------------------------------|:------|:------|
 | [OWASP GoatDroid Project](https://github.com/jackMannino/OWASP-GoatDroid-Projec) | -     | -     |
 | [NcN Wargame](http://noconname.org/evento/wargame)                               | -     | -     |
 | [OWASP Goatdroid](https://github.com/jackMannino/OWASP-GoatDroid-Projec)         | -     | -     |
@@ -266,7 +266,7 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
 
 ###### binary 
 | name                                          | tools | notes |
-| :___                                          | :___  | :___  |
+|:----------------------------------------------|:------|:------|
 | [war games](https://overthewire.org/wargames) | -     | -     |
 | [pwnable.kr](http://pwnable.kr)               | -     | -     |
 | [jarvsioj](https://www.jarvisoj.com)          | -     | -     |
@@ -275,7 +275,7 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
     
 ###### crypto
 | name                                                                    | type | notes |
-| :___                                                                    | :___ | :___  |
+|:------------------------------------------------------------------------|:-----|:------|
 | [cryptopals](https://cryptopals.co)                                     | -    | -     |
 | [cryptochallenge.io](https://cryptochallenge.io)                        | -    | -     |
 | [w3challs](https://w3challs.com/challenges/crypto)                      | -    | -     |
@@ -286,7 +286,7 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
 
 ###### CTF 
 | name                                                           | status | notes |
-| :___                                                           | :___   | :___  |
+|:---------------------------------------------------------------|:-------|:------|
 | [CTFtime (Details of CTF Challenges)](http://ctftime.org/ctf)  | -      | -     |
 | [shell-storm Repo](http://shell-storm.org/repo/CT)             | -      | -     |
 | [CAPTF Repo](http://captf.com)                                 | -      | -     |
@@ -295,7 +295,7 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
 
 ###### Older 
 | name                                                                                           | desc | notes |
-| :___                                                                                           | :___ | :___  |
+|:-----------------------------------------------------------------------------------------------|:-----|:------|
 | [Exploit-DB](http://www.exploit-db.com)                                                        | -    | -     |
 | [Old Apps](http://www.oldapps.com)                                                             | -    | -     |
 | [Old Version](http://www.oldversion.com)                                                       | -    | -     |
@@ -303,7 +303,7 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
 
 ##### misc 
 | name                                                                                                   | desc | notes |
-| :___                                                                                                   | :___ | :___  |
+|:-------------------------------------------------------------------------------------------------------|:-----|:------|
 | [irtuaPlant](https://github.com/jseidl/virtuaplan)                                                     | -    | -     |
 | [ulnVoIP](http://www.rebootuser.com/?page_id=104)                                                      | -    | -     |
 | [ulnVPN](http://www.rebootuser.com/?page_id=104)                                                       | -    | -     |
