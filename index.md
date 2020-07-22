@@ -1,1 +1,3 @@
-# h4ck.club
+---
+title: Welcome to h4ck.club
+---
