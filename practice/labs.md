@@ -9,45 +9,45 @@ fping -c 1 -f ip_list.txt 2>&1 | grep '84 bytes' | cut -d " " -f 1
 
 ###### awesome
 | name                                                                                                                                                | technologies                                | notes |
-| :___                                                                                                                                                | :___                                        | :___  |
-| [.NET Goat ](https://github.com/jerryhoff/WebGoat.NET/                                                        )                                     | C#-                                         | -     |
-| [21LTR](http://21ltr.com/scenes/                                                                         )                                          | -                                           | -     |
-| [Acunetix Acuart](http://testphp.vulnweb.com/                                                                      )                                | Apache, PHP, MySQL                          | -     |
-| [Acunetix Acublog](http://testaspnet.vulnweb.com/                                                                   )                               | IIS, ASP.NET, Microsoft SQL Server          | -     |
-| [Acunetix Acuforum](http://testasp.vulnweb.com/                                                                      )                              | IIS, ASP, Microsoft SQL Server              | -     |
-| [Acunetix SecurityTweets](http://testhtml5.vulnweb.com/                                                                    )                        | nginx, Python, Flask, CouchDB               | -     |
-| [BadStore](http://www.badstore.net/                                                                         )                                       | -                                           | -     |
-| [Bitnami Application Catalog](https://bitnami.com/stacks                                                                       )                    | OS                                          | -     |
-| [BodgeIt Store](http://code.google.com/p/bodgeit/                                                                )                                  | -                                           | -     |
-| [Bricks ](http://sechow.com/bricks/index.html                                                              )                                        | PHP-                                        | -     |
-| [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/                                                          )                     | -                                           | -     |
-| [Bwapp](https://sourceforge.net/projects/bwapp/files/bee-box/                                            )                                          | web                                         | -     |
-| [CTFd](https://github.com/isislab/CTFd                                                                  )                                           | -                                           | -     |
-| [Cenzic crackmebank](http://crackme.cenzic.com/                                                                       )                             | CentOS, Apache, PHP                         | -     |
-| [Commix](https://github.com/stasinopoulos/commix-testbed                                                  )                                         | -                                           | -     |
-| [CryptOMG](https://github.com/SpiderLabs/CryptOMG                                                           )                                       | Web                                         | -     |
-| [Cyclone Transfers](https://github.com/fridaygoldsmith/bwa_cyclone_transfers                                         )                              | Ruby on Rails-                              | -     |
-| [DE-ICE, hackerdemia](http://hackingdojo.com/downloads/iso/De-ICE_S1.110.iso                                           )                            | -                                           | -     |
-| [DE-ICE, hackerdemia](http://hackingdojo.com/downloads/iso/De-ICE_S1.120.iso                                           )                            | -                                           | -     |
-| [DE-ICE, hackerdemia](http://hackingdojo.com/downloads/iso/De-ICE_S1.123.iso                                           )                            | -                                           | -     |
-| [DE-ICE, hackerdemia](http://hackingdojo.com/downloads/iso/De-ICE_S2.100.iso                                           )                            | -                                           | -     |
-| [Damn Vulnerable](http://www.damnvulnerablelinux.org                                                               )                                | -                                           | -     |
-| [Damn Vulnerable Linux](http://sourceforge.net/projects/virtualhacking/files/os/dvl/                                     )                          | -                                           | -     |
-| [Damn Vulnerable Linux – Virtual Hacking Lab](https://sourceforge.net/projects/virtualhacking/files/os/dvl/                                    )    | OS                                          | -     |
-| [Damn Vulnerable Node Application (DVNA)](https://github.com/quantumfoam/DVNA/                                                             )        | -                                           | -     |
-| [Damn Vulnerable NodeJS Application (DVNA)](https://github.com/appsecco/dvna                                                                 )      | Web                                         | -     |
-| [Damn Vulnerable Router Firmware Project (DVRF)](https://github.com/praetorian-inc/DVRF                                                           ) | Others                                      | -     |
-| [Damn Vulnerable Thick Client App - DVTA](https://github.com/secvulture/dvta                                                               )        | C# .NET-                                    | -     |
-| [Damn Vulnerable Web Application - DVWA](http://www.dvwa.co.uk/                                                                           )         | PHP-                                        | -     |
-| [Damn Vulnerable Web Services (DVWS)](https://github.com/snoopysecurity/dvws                                                           )            | Web                                         | -     |
-| [Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS/                                                   )             | Web                                         | -     |
-| [De-ICE HackerPedia PenTest LiveCDs](http://de-ice.net/hackerpedia/index.php/De-ICE.net_PenTest_Disks                                 )             | -                                           | -     |
-| [Default VMWare vSphere](http://www.vmware.com/products/vsphere/                                                          )                         | -                                           | -     |
-| [Default Windows Clients](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise                        )                        | -                                           | -     |
-| [Default Windows Server](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview             )                         | -                                           | -     |
-| [Docker](https://www.docker.com/                                                                          )                                         | -                                           | -     |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|:------|
+| [.NET Goat ](https://github.com/jerryhoff/WebGoat.NET/)                                                                                             | C#-                                         | -     |
+| [21LTR](http://21ltr.com/scenes/)                                                                                                                   | -                                           | -     |
+| [Acunetix Acuart](http://testphp.vulnweb.com/)                                                                                                      | Apache, PHP, MySQL                          | -     |
+| [Acunetix Acublog](http://testaspnet.vulnweb.com/)                                                                                                  | IIS, ASP.NET, Microsoft SQL Server          | -     |
+| [Acunetix Acuforum](http://testasp.vulnweb.com/)                                                                                                    | IIS, ASP, Microsoft SQL Server              | -     |
+| [Acunetix SecurityTweets](http://testhtml5.vulnweb.com/)                                                                                            | nginx, Python, Flask, CouchDB               | -     |
+| [BadStore](http://www.badstore.net/)                                                                                                                | -                                           | -     |
+| [Bitnami Application Catalog](https://bitnami.com/stacks)                                                                                           | OS                                          | -     |
+| [BodgeIt Store](http://code.google.com/p/bodgeit/)                                                                                                  | -                                           | -     |
+| [Bricks ](http://sechow.com/bricks/index.html)                                                                                                      | PHP-                                        | -     |
+| [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/)                                                                               | -                                           | -     |
+| [Bwapp](https://sourceforge.net/projects/bwapp/files/bee-box/)                                                                                      | web                                         | -     |
+| [CTFd](https://github.com/isislab/CTFd)                                                                                                             | -                                           | -     |
+| [Cenzic crackmebank](http://crackme.cenzic.com/)                                                                                                    | CentOS, Apache, PHP                         | -     |
+| [Commix](https://github.com/stasinopoulos/commix-testbed)                                                                                           | -                                           | -     |
+| [CryptOMG](https://github.com/SpiderLabs/CryptOMG)                                       | Web                                         | -     |
+| [Cyclone Transfers](https://github.com/fridaygoldsmith/bwa_cyclone_transfers)                              | Ruby on Rails-                              | -     |
+| [DE-ICE, hackerdemia](http://hackingdojo.com/downloads/iso/De-ICE_S1.110.iso)                            | -                                           | -     |
+| [DE-ICE, hackerdemia](http://hackingdojo.com/downloads/iso/De-ICE_S1.120.iso)                            | -                                           | -     |
+| [DE-ICE, hackerdemia](http://hackingdojo.com/downloads/iso/De-ICE_S1.123.iso)                            | -                                           | -     |
+| [DE-ICE, hackerdemia](http://hackingdojo.com/downloads/iso/De-ICE_S2.100.iso)                            | -                                           | -     |
+| [Damn Vulnerable](http://www.damnvulnerablelinux.org)                                | -                                           | -     |
+| [Damn Vulnerable Linux](http://sourceforge.net/projects/virtualhacking/files/os/dvl/)                          | -                                           | -     |
+| [Damn Vulnerable Linux – Virtual Hacking Lab](https://sourceforge.net/projects/virtualhacking/files/os/dvl/)    | OS                                          | -     |
+| [Damn Vulnerable Node Application (DVNA)](https://github.com/quantumfoam/DVNA/)        | -                                           | -     |
+| [Damn Vulnerable NodeJS Application (DVNA)](https://github.com/appsecco/dvna)      | Web                                         | -     |
+| [Damn Vulnerable Router Firmware Project (DVRF)](https://github.com/praetorian-inc/DVRF) | Others                                      | -     |
+| [Damn Vulnerable Thick Client App - DVTA](https://github.com/secvulture/dvta)        | C# .NET-                                    | -     |
+| [Damn Vulnerable Web Application - DVWA](http://www.dvwa.co.uk/)         | PHP-                                        | -     |
+| [Damn Vulnerable Web Services (DVWS)](https://github.com/snoopysecurity/dvws)            | Web                                         | -     |
+| [Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS/)             | Web                                         | -     |
+| [De-ICE HackerPedia PenTest LiveCDs](http://de-ice.net/hackerpedia/index.php/De-ICE.net_PenTest_Disks)             | -                                           | -     |
+| [Default VMWare vSphere](http://www.vmware.com/products/vsphere/)                         | -                                           | -     |
+| [Default Windows Clients](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)                        | -                                           | -     |
+| [Default Windows Server](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview)                         | -                                           | -     |
+| [Docker](https://www.docker.com/)                                         | -                                           | -     |
 | [Drunk Admin Web Hacking Challenge](https://bechtsoudis.com/work-stuff/challenges/drunk-admin-web-hacking-challenge/                 )              | -                                           | -     |
-| [Elastic Server](http://elasticserver.com                                                                         )                                 | -                                           | -     |
+| [Elastic Server](http://elasticserver.com)                                 | -                                           | -     |
 | [Exploit KB Vulnerable Web App](http://exploit.co.il/projects/vuln-web-app/                                                      )                  | -                                           | -     |
 | [Firing Range](https://public-firing-range.appspot.com/                                                         )                                   | Google App Engine                           | -     |
 | [Foundstone Hackme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx                                    )                         | -                                           | -     |
