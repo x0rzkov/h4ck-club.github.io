@@ -87,5 +87,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 | [google](https://github.com/alex/what-happens-when)                                                                                                       |
 
 ```
-"What I cannot create, I do not understand." – Richard Feynman
+"What I cannot create, I do not understand." 
+    – Richard Feynman
 ```
