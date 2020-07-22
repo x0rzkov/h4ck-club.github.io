@@ -1,4 +1,6 @@
-https://medium.com/@vanflymen/learn-blockchains-by-building-one-117428612f46
+[learn by building](https://medium.com/@vanflymen/learn-blockchains-by-building-one-117428612f46)
+
+```
 What does a Block look like?
 Each Block has an index, a timestamp (in Unix time), a list of transactions, 
 a proof (more on that later), and the hash of the previous Block.
@@ -24,3 +26,4 @@ The solution here is y = 21. Since, the produced hash ends in 0:
 
 hash(5 * 21) = 1253e9373e...5e3600155e860
 In Bitcoin, the Proof of Work algorithm is called Hashcash. 
+```

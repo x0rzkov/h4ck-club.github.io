@@ -27,7 +27,7 @@ title: h4ck.club
 | [supervisor](dev/supervisor.md) | [swarm](dev/swarm.md)   |
 | [tests](dev/tests.md)           | [vim](dev/vim.md)       |
 
-| [sys](OS/OS.md)        | <!--  -->        |
+| [sys](sys/sys.md)        | <!--  -->        |
 |:-----------------------|:-----------------|
 | [nix](OS/nix.md)       | [win](OS/win.md) |
 | [mobile](OS/mobile.md) | [tcp](OS/ip.md)  |
