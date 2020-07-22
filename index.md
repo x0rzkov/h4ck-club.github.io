@@ -1,5 +1,6 @@
 ---
 title: h4ck.club
+layout: default
 ---
 
 # Welcome to h4ck.club
