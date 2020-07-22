@@ -6,7 +6,7 @@
 - [algorithms](algorithms.md)
 - [anon](anon.md)
 - [automation](automation.md)
-- [block_chain](block_chain.md)
+- [block chain](block_chain.md)
 - [chat](chat.md)
 - [concepts](concepts.md)
 - [digital audio video](digital-video.md)
