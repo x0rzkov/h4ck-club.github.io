@@ -4,21 +4,21 @@ title: Welcome to h4ck.club
 # Welcome to h4ck.club
 
 | [bbw](BBW/BBW.md)       | <!--  -->                 |
-|:-----------------------:|:-------------------------:|
+|:------------------------|:--------------------------|
 | [recon](BBW/recon.md)   | [scan](BBW/scan.md)       |
 | [xpl](BBW/xpl.md)       | [privE](BBW/privE.md)     |
 | [report](BBW/report.md) | [owasp](BBW/owasp.md)     |
 | [deeper](BBW/deeper.md) | [vulndbs](BBW/vulndbs.md) |
 
-| [ctf](CTF/CTF.md)| <!--  -->                 |
-|:-----------------------:|:-------------------------:|
-| [binary](CTF/bin/bin.md) | [crypto](CTF/crypto/crypto.md)|
-| [forensics](CTF/forensics/forensics.md) | [misc](CTF/misc/misc.md)|
-| [ppc](CTF/ppc/ppc.md) | [stego](CTF/stego/stego.md)|
-| [web](CTF/web/web.md) | [labs](CTF/lab/labs.md)|
+| [ctf](CTF/CTF.md)                       | <!--  -->                      |
+|:----------------------------------------|:-------------------------------|
+| [binary](CTF/bin/bin.md)                | [crypto](CTF/crypto/crypto.md) |
+| [forensics](CTF/forensics/forensics.md) | [misc](CTF/misc/misc.md)       |
+| [ppc](CTF/ppc/ppc.md)                   | [stego](CTF/stego/stego.md)    |
+| [web](CTF/web/web.md)                   | [labs](CTF/lab/labs.md)        |
 
 | [dev](dev/dev.md)               | <!--  -->               |
-|:-------------------------------:|:-----------------------:|
+|:--------------------------------|:------------------------|
 | [flask](dev/flask.md)           | [git](dev/git.md)       |
 | [nginx](dev/nginx.md)           | [postgres](dev/psql.md) |
 | [mongodb](dev/mongodb.md)       | [react](dev/react.md)   |
@@ -27,12 +27,12 @@ title: Welcome to h4ck.club
 | [tests](dev/tests.md)           | [vim](dev/vim.md)       |
 
 | [sys](OS/OS.md)        | <!--  -->        |
-|:----------------------:|:----------------:|
+|:-----------------------|:-----------------|
 | [nix](OS/nix.md)       | [win](OS/win.md) |
 | [mobile](OS/mobile.md) | [tcp](OS/ip.md)  |
 
 | [tools](tools/tools.md)         | <!--  -->                         |
-|:-------------------------------:|:---------------------------------:|
+|:--------------------------------|:----------------------------------|
 | [afl](tools/afl.md)             | [angr](tools/angr.md)             |
 | [bs4](tools/bs4.md)             | [burp](tools/burp.md)             |
 | [gdb](tools/gdb.md)             | [metasploit](tools/metasploit.md) |
@@ -40,7 +40,7 @@ title: Welcome to h4ck.club
 | [pwntools](tools/pwntools.md)   | [radare2](tools/radare2.md)       |
 
 | [next](practice/practice.md)                   | <!--  -->                            |
-|:----------------------------------------------:|:------------------------------------:|
+|:-----------------------------------------------|:-------------------------------------|
 | [100_days_coding](practice/100_days_coding.md) | [10.min.mile](practice/good.md)      |
 | [anonymity](practice/anon.md)                  | [automation](practice/automation.md) |
 | [block chain](practice/block_chain.md)         | [concepts](practice/concepts.md)     |
