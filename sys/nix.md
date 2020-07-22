@@ -4,6 +4,7 @@
 - [audit](audit.md)
 - [awk_sed](awk_sed.md)
 - [base64](base64.md)
+- [bash](bash.md)
 - [bless](bless.md)
 - [blueman](blueman.md)
 - [cat](cat.md)
