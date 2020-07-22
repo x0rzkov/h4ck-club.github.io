@@ -1,3 +1,6 @@
+---
+title: practice
+---
 # practice
 
 - [100_days_coding](100_days_coding.md)
