@@ -76,7 +76,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 - [OSSU](https://github.com/ossu/computer-science)
 
 
-| learn                                                                                                                                                     |
+| understand                                                                                                                                                |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [simple computer](https://github.com/djhworld/simple-computer/)                                                                                           |
 | [but how do it know](http://buthowdoitknow.com/)                                                                                                          |

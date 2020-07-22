@@ -1,0 +1,14 @@
+```
+- [the art of commandline](https://github.com/jlevy/the-art-of-command-line)
+- [bash-guide](https://github.com/Idnan/bash-guide)
+- [awesome shell](https://github.com/alebcay/awesome-shell)
+- [explainshell](https://github.com/idank/explainshell)
+- [bash-it](https://github.com/Bash-it/bash-it)
+- [awesome](https://github.com/awesome-lists/awesome-bash)
+- [scripts](https://github.com/ruanyf/simple-bash-scripts)
+- [commands](https://github.com/joseluisq/awesome-bash-commands)
+- [bash bible](https://github.com/dylanaraps/pure-bash-bible)
+- [oneliners](http://www.bashoneliners.com/oneliners/popular/)
+- [commandlinfu](https://www.commandlinefu.com/commands/browse)
+```
+

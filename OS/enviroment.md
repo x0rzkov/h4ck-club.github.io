@@ -1,0 +1,9 @@
+###### env
+```
+$IFS
+$LD_LIBRARY_PATH 
+$LD_PRELOAD
+$PATH 
+$PAGES
+$USER 
+```
